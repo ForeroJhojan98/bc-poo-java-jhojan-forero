@@ -94,7 +94,3 @@ Utilizamos la **clase `Libro`** como un molde. Cada libro (`libro1`, `libro2`) e
 3.  **Facilidad de Extensión:** Si el día de mañana se añade el objeto `Proveedor`, este solo necesita interactuar con el método `venderUnidades()` o `setPrecioVenta()`, sin alterar la lógica interna del `Libro`.
 
 ---
-
-## 6. Diagrama de Clases (Opcional)
-
-Este diagrama muestra la estructura de las dos clases y la asociación unidireccional.
